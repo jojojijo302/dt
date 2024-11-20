@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body{
+background-color: green;
+}
+
+.jojo1{
+    color: honeydew;
+    background-color: brown;
+    font-size: 50px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 22px;
+    padding: 24px 17px 23px 28px ;
+    text-align: center;
+}
+
+.jojo2{
+    border: 3px solid red;
+    width: 1000px;
+    margin: 55px auto;
+    background-color: black;
+    padding: 45px 52px;
+}
+
+.jojo3 , .jojo4{
+    background-color: aqua;
+    width: 896px;
+    margin: 0 auto;
+    font-size: 24px;
+    text-align: left;
+    padding: 20px;
+}
+
+.jojo4{
+    margin-top: 20px;
+}
